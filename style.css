@@ -1,0 +1,10 @@
+.body{
+	background-color: aqua;
+}
+
+#click-count-button{
+	background-color: rgb(164, 164, 248);
+	border: 2px solid grey;
+	border-radius: 1em;
+	padding:0.8em 1.3em;
+}
